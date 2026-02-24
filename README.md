@@ -6,4 +6,3 @@
 <a href="https://www.instagram.com/cesarricardo__/">insta</a>
 </p>
 
-https://www.instagram.com/cesarricardo__/
