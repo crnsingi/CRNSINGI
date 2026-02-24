@@ -1,4 +1,3 @@
-<h1 align="center">César Nsingi</h1>
 
 <p align="center">
 <a href="https://cesarnsingi.com">me</a> ·
