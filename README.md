@@ -1,9 +1,8 @@
 <h1 align="center">César Nsingi</h1>
 
 <p align="center">
-  <a href="#about">me</a> ·
-  <a href="#projects">projects</a> ·
-  <a href="#talks">talks</a> ·
-  <a href="#contact">contact</a>
+<a href="https://cesarnsingi.com">me</a> ·
+<a href="https://cesarnsingi.com/projects">projects</a> ·
+<a href="https://x.com/cesarricardo__">tweets</a>
 </p>
 
