@@ -1,7 +1,9 @@
-## Engineer,  Cesar Nsingi.
+<h1 align="center">César Nsingi</h1>
 
+<p align="center">
+  <a href="#about">me</a> ·
+  <a href="#projects">projects</a> ·
+  <a href="#talks">talks</a> ·
+  <a href="#contact">contact</a>
+</p>
 
-- 🥼 🧪 This is my lab.
-
-
-- 📫 cesarnsingi@hotmail.com
